@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Django Project to manage personal life
+- 🔭 I’m currently working on [Django Project to manage personal life](http://mientornopersonal.com)
 - 🌱 I’m currently learning Big Data and Data Science
 - 👯 I’m looking to collaborate on open source projects
 <!-- - 🤔 I’m looking for help with -->
